@@ -3,10 +3,10 @@ Business Sales Performance Analytics
 ## Project Overview
 
 This project analyzes business sales data to understand sales performance, profitability, product performance, category performance, regional performance, and sales trends.
+![Business Sales Performance Dashboard](Business_Sales_Performance_Dashboard.png)
 
 The project was completed as part of the **Future Interns – Data Science & Analytics Internship (Task 1).
 
-![Business Sales Performance Dashboard](Business_Sales_Performance_Dashboard.png)
 
 
 
